@@ -5,5 +5,8 @@
   "main": "./main.cjs",
   "devDependencies": {
     "fast-check": "^3.3.0"
+  },
+  "scripts": {
+    "test": "node main.cjs"
   }
 }
